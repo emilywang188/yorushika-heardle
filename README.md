@@ -1,10 +1,10 @@
-# Heardle Template
+# 🎧 yorushika heardle
 
-Forked from [Shizerq](https://github.com/Shizerq/sluchajfun) 
-Clone of famous [Heardle](https://heardle.app) - "that daily music game". <br />
-Uses through the YouTube iFrame API.
+a fan-made, daily music guessing game themed around the japanese band yorushika! inspired by the original heardle format.
 
-4/28/22 - issues with video availability
+* forked from [sarvarghese](https://github.com/sarvarghese) </br>
+* clone of [Heardle](https://heardle.app), the famous music game <br />
+* uses the YouTube iFrame API.
 
 # Building (default React stuff)
 
